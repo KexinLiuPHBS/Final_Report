@@ -21,16 +21,63 @@ ABS business started in China in 2005, the China Development Bank and China Cons
 The chart below shows the development of ABS market in China (Source: Wind). We can see that the issuance volume of ABS exploded after year 2014. The ABS issuance volume between 2014 to 2018 is 330.98, 613.52, 884.69, 1,503.06 and 2,013.94 billion RMB, respectively. 
 ![image](https://github.com/KexinLiuPHBS/PHBS_BlockChain_2018/blob/master/pg1.png)
 
-## 2. Current Problems Existing in ABS Issuance
+## 2.Current Problems in ABS Issuance
 As a direct financing method by issuing securities in the capital market and money market, ABS is very popular among banks and asset management companies, because these Banks have the contradiction of short deposit and long-term loans, and asset management companies also have the pressure to recover bad assets. So issuing ABS can greatly reduce their risk.
 
 However, ABS can be applied even broadly to small and medium-sized enterprises. Technically for them, as long as they have high-quality assets, they can obtain low-cost financing through ABS. That makes it easy for smaller, lower-rated institutions to raise low-cost funding. For example, an small company is the supplier of a multinational company, say China Petroleum, then it has money receivables from China Petroleum. It can issue account receivables ABS even if it is small, and get a AAA rating because the rating is given based on the cash flow stability in the future, and China Petroleum is not likely to default. So a small company can also issue debt-raising securities with very high ratings as long as they have high-quality asset that can generate stable cash flow. Ideally, ABS is a powerful tool to solve the financing difficulties and high costs of SMEs. However, this is often not the case in China. 
 
 Originally, the innovation of ABS lies in the separation of main body rating and debt rating, but domestic ABS fails to achieve this. The main reason for this problem is that it is difficult for the rating agencies to be objective and fair in debt rating. Therefore, most people rely on the main body rating, which makes investors would rather trust the large institutions with high main body rating more, even if the ABS bond rating issued by these institutions is low. Taking consumer finance ABS as an example, the underlying assets of consumer finance are characterized by a large number of transactions, a small amount of money of each transaction and a high degree of diversification, which greatly increases the difficulty of debt rating. Therefore, investors, rating agencies, asset owners and market regulators all hold a wait-and-see attitude towards this kind of ABS.
 
-## 3. What has Blockchian to do with ABS
+What's more, external credit enhancement and the existence of compulsiery central entity may entail huge amount of transaction cost. Post-ABS cash flow management and credit trigger mechanism all require a lot of human input. Under a centralized framework, the way an authority record and collect all the information, and then distribute to the society will not only decreased the reliability and transparency of the data, but also make the transmitting efficiency low and the cost high.
+
+## 3.What has Blockchian to do with ABS
 As an independent underlying data storage and verification technology, blockchain has the characteristics of decentralization, tamper-proof, transaction traceability and so on. It can realize the transaction process in which all nodes jointly maintain a set of transaction ledger data and master and verify the contents of the ledger in real time, so that everyone can participate in the database recording.
 
 In this way, the application of blockchain technology can realize the management of the whole life cycle of the underlying assets, including the data of the whole process of loan, repayment, overdue payment and transaction, so as to achieve the purpose of real-time monitoring and accurate prediction of cash flow. With these supports, problems such as multiple links, complex processes and poor transparency of underlying assets in ABS can be effectively solved, making debt rating more accurate.
 
 The application of blockchain technology in ABS can improve the reliability and efficiency of ABS due diligence.For investors, it can enhance the transparency of the investment; For regulators, the requirements of penetrative audit and supervision can be satisfied to a greater extent; For the project side, it can increase investment revenue, reduce financing and communication costs, and improve the speed of capital flow.
+
+## 4.Application of Blockchian in ABS
+### Underlying Asset Type
+From the real life experiment, blockchian technology suits debt rights asset the most. On one hand, the credibility issue can be solved with blockchain.For example, Consumer finance and auto loans both have the characteristics of small, scattered and stable cash flow, so they are naturally suitable for being the underlying assets of asset securitization. However, credit problems in Internet consumer finance have become an important obstacle to its financing, and blockchain can truly present the credit history of both parties without the help of a third party, which can effectively solve the credit problems in consumer finance. Similarly, credit problems caused by information asymmetry generally exist in supply chain finance ABS, such as bills, letters of credit, enterprise receivables, factoring claims, etc. The introduction of blockchain technology enables every transaction in the supply chain to be recorded and open to all participants. On the other hand, ABS' preference for risk diversification of underlying assets coincides with the decentralized nature of blockchain.
+
+### ABS Construction
+Blockchain technology, with its decentralized, encrypted security and non-tamper technical features, can participate in multiple processes and links of ABS from pre-establishment to post-establishment duration management.
+
+(1) The formation of the underlying assets
+
+At present, the application of blockchain to ABS mainly focuses on the formation process of underlying assets. On the one hand, with the use of blockchain technology, the authenticity of each underlying asset can be confirmed and shared by all participants, greatly reducing information asymmetry. In blockchain, if record details of every asset is open to all entities, it will provide huge support to the due diligence work the plan administrator does. The rating agencies may also be to analyze the quality of each asset rather than using sampling survey method due to the time and technology limitations, and law firm will to grasp the legal risk of the entire asset pool to a greater degree. Asset service agency can also be easily grasp the balance payments and the default condition, and investors can penetrate the underlying assets to see whether it is a good deal. On the other hand, in the ABS structure of cyclic purchase, there is a risk of declining asset quality of cyclic purchase. For example, the initial pool of assets is very good, but in the second circle it may buy a batch of assets whose default rate is higher. Due to information asymmetry, it is not easy to detect, and the risk will not be exposed until the duration monitoring, so the risk cannot be prevented in advance.If all intermediaries, such as asset service agencies, and managers, rating agencies, lawyers and accountants, can see every real asset purchased in a cycle on the chain and evaluate the newly pooled assets, the quality of underlying assets can be guaranteed at a high level
+
+(2)Ratings of different layers
+
+At present, rating agencies usually extract data from static pools to calculate default risk for accounts receivable ABS such as consumer finance and auto loans.The information quality of static sample pool data will have an important impact on the evaluation of credit quality of underlying assets. In actual project operations, the static pool samples are completely provided by the enterprise.The completeness, unbiasedness, dispersion, representativeness and consistency of samples may have some deviations. After the introduction of blockchain technology, we will have a more detailed and unchangeable record of pre-loan examination, post-loan monitoring and fund pay back activities. The rating agencies are free to objectively select representative samples in accordance with the scientific sampling method, or even select the whole sample. In this way, the samples can better represent the real quality and provide a greater guarantee for the assets.At the same time, blockchain technology can help realize the analysis of each asset in the dynamic pool.
+
+(3)The transfer of the underlying assets
+
+Every transfer of assets is recorded in a complete and authentic way on the blockchain, which is convenient to track the ownership of assets, and can effectively prevent the phenomenon of "multiple sales". On the other hand, transactions on the blockchain are implemented through scripts to reduce human intervention, and smart contracts can be built in to improve the efficiency and convenience of asset transfer.
+
+(4)Duration monitoring of underlying assets
+
+Duration monitoring of the underlying assets is a comprehensive work, including statistical distribution characteristics, default rate and recovery rate. At present, plan administrators can only rely on the data provided by enterprises, which makes it difficult to make an accurate judgment. They can only assume that the information provided by enterprises is true and reliable. The introduction of blockchain technology is similar to the formation and transfer of the above assets. Both of them rely on the open and sharing spirit of blockchain to strictly track and monitor the duration of the entire asset pool, so as to facilitate data analysis and processing.Meanwhile, the actions of recording every asset and overdue payment on the blockchain is naturally another form of information disclosure.
+
+(5)Securities trades in the secondary market
+
+At present, the lack of liquidity in ABS secondary market is a major problem in the development of ABS. ABS holders are recorded on the blockchain, and even as blockchain is formed between different blockchains, investors can share the underlying asset status of ABS, which provides a transparent and safe trading platform for ABS transactions.On the other hand, blockchain technology can improve the efficiency of securities registration, transaction and settlement, and meet the supervision and auditing requirements.
+
+### Realtime Development
+By the end of year 2018, there are 5 blockchain-supported ABS issued in China, raising a total amount of 1.86 bn RMB.
+
+(1)Underlying asset type
+
+The underlying assets of the 5 ABS all belong to debt rights assets, which include consumer finance receivables, supply chain receivables and auto loans, which to some extent proved that blockchian technology suits debt rights asset the most.
+
+(2)Blockchain technology provider
+
+There are two main types of blockchain technology providers. One is the financial branch companie of big Internet companies represented by Baidu Finance and JD Finance; The other is the fintech companies such as Kaiyuan Finance.The advantage of the former lies in the relatively mature technology foundation and the ability of continuous development. More importantly, some of the companies carrying out consumer finance business can provide underlying assets as the original stakeholders while providing technology at the same time. So it has a charateristic that integrates the original stakeholders, asset service providers and information technology providers together.The advantage of the latter is that they are familiar with the trading rules of the capital market and have relatively rich experience in the operation of the capital market.
+
+(3)Issuance scale
+
+Currently on the market there are only issued 5 single ABS products totalled 1.86 billion yuan, and they differ in product structure, the types of underlying assets, and relevant participants. It reflects that the blockchain technology in the ABS industry has not yet formed a mature model, and is still in the exploratory stage. At the same time, it also means that there is still a vast space for blockchain to be discovered in the field of securitization. 
+
+
+
