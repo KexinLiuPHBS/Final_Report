@@ -79,5 +79,7 @@ There are two main types of blockchain technology providers. One is the financia
 
 Currently on the market there are only issued 5 single ABS products totalled 1.86 billion yuan, and they differ in product structure, the types of underlying assets, and relevant participants. It reflects that the blockchain technology in the ABS industry has not yet formed a mature model, and is still in the exploratory stage. At the same time, it also means that there is still a vast space for blockchain to be discovered in the field of securitization. 
 
-
+## References
+Ba Shusong,Qiao Ruoyu,Zheng Jiawei. How Blockchian Technology Penetrates into Different Financial Scenarios:Status and Trend [J].New Finance Review, 2018(02),p110-126.
+Dong Jicun. Analysis on the Application of Blockchain in ABS[D]. Hebei Fiannce University, 2018.
 
