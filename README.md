@@ -82,5 +82,5 @@ Currently on the market there are only issued 5 single ABS products totalled 1.8
 ## References
 Ba Shusong,Qiao Ruoyu,Zheng Jiawei. How Blockchian Technology Penetrates into Different Financial Scenarios:Status and Trend [J].New Finance Review, 2018(02),p110-126.
 
-Dong Jicun. Analysis on the Application of Blockchain in ABS[D]. Hebei Fiannce University, 2018.
+Dong Jicun. Analysis on the Application of Blockchain in ABS[D]. Hebei Finance University, 2018.
 
